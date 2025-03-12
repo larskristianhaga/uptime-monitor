@@ -2,6 +2,7 @@ owner: larskristianhaga
 repo: uptime-monitor
 
 sites:
+    # Trefelling
   - name: http://3fs.no
     url: http://3fs.no
   - name: https://3fs.no
@@ -9,27 +10,41 @@ sites:
 
   - name: http://paal-erik.no
     url: http://paal-erik.no
-  - name: https://paal-erik.no
-    url: https://paal-erik.no
 
   - name: http://trefellingspesialisten.no
     url: http://trefellingspesialisten.no
-  - name: https://trefellingspesialisten.no
-    url: https://trefellingspesialisten.no
 
   - name: http://trefellings-spesialisten.no
     url: http://trefellings-spesialisten.no
-  - name: https://trefellings-spesialisten.no
-    url: https://trefellings-spesialisten.no
+
+    # Ta over
+  - name: http://trefellingsspesialisten.no
+    url: http://trefellingsspesialisten.no
+  - name: https://trefellingsspesialisten.no
+    url: https://trefellingsspesialisten.no
+
+    # Ta over
+  - name: http://haga.no
+    url: http://haga.no
+  - name: https://haga.no
+    url: https://haga.no
+
+  - name: http://casahaga.no
+    url: http://casahaga.no
+  - name: https://casahaga.no
+    url: https://casahaga.no
+
+  - name: http://laline.no
+    url: http://laline.no
+  - name: https://laline.no
+    url: https://laline.no
 
 status-website:
   baseUrl: /uptime-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Some Message
+  introTitle: Monitor for relevante sider
   navbar:
-    - title: Status
+    - title: Monitor
       href: /
     - title: GitHub
       href: https://github.com/larskristianhaga/uptime-monitor
