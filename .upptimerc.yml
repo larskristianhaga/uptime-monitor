@@ -2,7 +2,6 @@ owner: larskristianhaga
 repo: uptime-monitor
 
 sites:
-    # Trefelling
   - name: 3fs.no
     url: https://3fs.no
 
