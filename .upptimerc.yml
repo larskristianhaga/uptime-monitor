@@ -27,6 +27,6 @@ status-website:
   introTitle: Monitor for relevante sider
   navbar:
     - title: Monitor
-      href: /
+      href: /uptime-monitor
     - title: GitHub
       href: https://github.com/larskristianhaga/uptime-monitor
