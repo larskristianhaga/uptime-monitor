@@ -20,6 +20,15 @@ sites:
   - name: laline.no
     url: https://laline.no
 
+  - name: nginx-response-test
+    url: https://nginx-response-test.fly.dev
+
+  - name: go-response-test
+    url: https://go-response-test.fly.dev
+
+  - name: java-response-test
+    url: https://java-response-test.fly.dev
+
 status-website:
   baseUrl: /uptime-monitor
   name: Uptime Monitor
