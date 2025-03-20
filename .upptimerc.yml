@@ -28,6 +28,8 @@ sites:
 
   - name: java-response-test
     url: https://java-response-test.fly.dev
+assignees:
+  - larskristianhaga
 
 status-website:
   baseUrl: /uptime-monitor
