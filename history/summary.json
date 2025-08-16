@@ -4,10 +4,10 @@
     "url": "https://3fs.no",
     "icon": "https://icons.duckduckgo.com/ip3/3fs.no.ico",
     "slug": "3fs-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 901,
@@ -15,17 +15,19 @@
     "timeWeek": 830,
     "timeMonth": 845,
     "timeYear": 901,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 2
+    }
   },
   {
     "name": "paal-erik.no",
     "url": "http://paal-erik.no",
     "icon": "https://icons.duckduckgo.com/ip3/paal-erik.no.ico",
     "slug": "paal-erik-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "99.37%",
     "time": 735,
@@ -34,6 +36,7 @@
     "timeMonth": 923,
     "timeYear": 735,
     "dailyMinutesDown": {
+      "2025-08-16": 1,
       "2025-08-07": 50,
       "2025-07-24": 490,
       "2025-07-23": 869
@@ -44,10 +47,10 @@
     "url": "http://trefellingspesialisten.no",
     "icon": "https://icons.duckduckgo.com/ip3/trefellingspesialisten.no.ico",
     "slug": "trefellingspesialisten-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "99.37%",
     "time": 687,
@@ -56,6 +59,7 @@
     "timeMonth": 871,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2025-08-16": 1,
       "2025-08-07": 49,
       "2025-07-24": 490,
       "2025-07-23": 869
@@ -66,9 +70,9 @@
     "url": "http://trefellings-spesialisten.no",
     "icon": "https://icons.duckduckgo.com/ip3/trefellings-spesialisten.no.ico",
     "slug": "trefellings-spesialisten-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "99.37%",
@@ -78,6 +82,7 @@
     "timeMonth": 912,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-08-07": 50,
       "2025-07-24": 490,
       "2025-07-23": 869
