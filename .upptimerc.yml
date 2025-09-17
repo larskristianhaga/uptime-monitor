@@ -14,6 +14,9 @@ sites:
   - name: trefellings-spesialisten.no
     url: http://trefellings-spesialisten.no
 
+  - name: 3fs.no - Vercel
+    url: https://3fs.vercel.app
+
   - name: casahaga.no
     url: https://casahaga.no
 
