@@ -89,19 +89,19 @@
     "url": "https://3fs.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/3fs.vercel.app.ico",
     "slug": "3fs-no-vercel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 132,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 171,
+    "timeDay": 204,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-09-23": 0
+      "2025-09-23": 10
     }
   },
   {
