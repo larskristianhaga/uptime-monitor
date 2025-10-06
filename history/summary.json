@@ -4,19 +4,19 @@
     "url": "https://3fs.no",
     "icon": "https://icons.duckduckgo.com/ip3/3fs.no.ico",
     "slug": "3fs-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 727,
-    "timeWeek": 821,
-    "timeMonth": 860,
-    "timeYear": 889,
+    "time": 887,
+    "timeDay": 615,
+    "timeWeek": 786,
+    "timeMonth": 849,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-10-06": 0
+      "2025-10-06": 6
     }
   },
   {
