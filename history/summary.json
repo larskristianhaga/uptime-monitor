@@ -4,18 +4,20 @@
     "url": "https://3fs.no",
     "icon": "https://icons.duckduckgo.com/ip3/3fs.no.ico",
     "slug": "3fs-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 889,
-    "timeDay": 839,
+    "timeDay": 727,
     "timeWeek": 821,
     "timeMonth": 860,
     "timeYear": 889,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-06": 0
+    }
   },
   {
     "name": "paal-erik.no",
