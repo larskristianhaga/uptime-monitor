@@ -89,18 +89,20 @@
     "url": "https://3fs.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/3fs.vercel.app.ico",
     "slug": "3fs-no-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 92,
-    "timeWeek": 134,
-    "timeMonth": 144,
-    "timeYear": 149,
-    "dailyMinutesDown": {}
+    "time": 150,
+    "timeDay": 115,
+    "timeWeek": 137,
+    "timeMonth": 145,
+    "timeYear": 150,
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "casahaga.no",
