@@ -67,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/trefellings-spesialisten.no.ico",
     "slug": "trefellings-spesialisten-no",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 920,
     "timeDay": 910,
     "timeWeek": 1552,
@@ -89,9 +89,9 @@
     "url": "https://3fs.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/3fs.vercel.app.ico",
     "slug": "3fs-no-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
@@ -101,6 +101,7 @@
     "timeMonth": 147,
     "timeYear": 150,
     "dailyMinutesDown": {
+      "2025-10-25": 0,
       "2025-10-20": 15
     }
   },
