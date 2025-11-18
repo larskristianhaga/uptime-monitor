@@ -23,6 +23,9 @@ sites:
   - name: laline.no
     url: https://laline.no
 
+  - name: haga.no
+    url: https://haga.no
+
 assignees:
   - larskristianhaga
 
