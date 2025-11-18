@@ -1,7 +1,7 @@
 url: https://casahaga.no
-status: up
-code: 200
-responseTime: 615
-lastUpdated: 2025-11-18T12:14:59.890Z
+status: down
+code: 500
+responseTime: 179
+lastUpdated: 2025-11-18T13:09:34.608Z
 startTime: 2025-03-13T21:37:43.539Z
 generator: Upptime <https://github.com/upptime/upptime>
