@@ -1,6 +1,6 @@
 # [📈 Live Status](https://larskristianhaga.github.io/uptime-monitor): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Lars Kristian Haga](https://www.linkedin.com/in/larskhaga/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/larskristianhaga/uptime-monitor/workflows/Uptime%20CI/badge.svg)](https://github.com/larskristianhaga/uptime-monitor/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/larskristianhaga/uptime-monitor/workflows/Response%20Time%20CI/badge.svg)](https://github.com/larskristianhaga/uptime-monitor/actions?query=workflow%3A%22Response+Time+CI%22)
