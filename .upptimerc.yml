@@ -25,6 +25,7 @@ sites:
 
   - name: haga.no
     url: https://haga.no
+    maxRedirects: 10
 
 assignees:
   - larskristianhaga
