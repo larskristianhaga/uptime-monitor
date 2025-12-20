@@ -2,34 +2,6 @@ owner: larskristianhaga
 repo: uptime-monitor
 
 sites:
-  - name: 3fs.no
-    url: https://3fs.no
-    user-agent: upptime
-
-  - name: paal-erik.no
-    url: http://paal-erik.no
-    user-agent: upptime
-
-  - name: trefellingspesialisten.no
-    url: http://trefellingspesialisten.no
-    user-agent: upptime
-
-  - name: trefellings-spesialisten.no
-    url: http://trefellings-spesialisten.no
-    user-agent: upptime
-
-  - name: 3fs.no - Vercel
-    url: https://3fs.vercel.app
-    user-agent: upptime
-
-  - name: casahaga.no
-    url: https://casahaga.no
-    user-agent: upptime
-
-  - name: laline.no
-    url: https://laline.no
-    user-agent: upptime
-
   - name: haga.no
     url: https://haga.no
     maxRedirects: 10
