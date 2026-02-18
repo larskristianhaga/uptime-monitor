@@ -1,7 +1,7 @@
 url: https://haga.no
-status: up
-code: 200
-responseTime: 2422
-lastUpdated: 2026-02-17T23:09:29.316Z
+status: down
+code: 415
+responseTime: 1011
+lastUpdated: 2026-02-18T00:28:25.176Z
 startTime: 2025-11-18T18:51:02.107Z
 generator: Upptime <https://github.com/upptime/upptime>
