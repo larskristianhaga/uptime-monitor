@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/haga.no.ico",
     "slug": "haga-no",
     "status": "down",
-    "uptime": "88.84%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "83.91%",
-    "uptimeMonth": "73.30%",
-    "uptimeYear": "88.84%",
-    "time": 2095,
-    "timeDay": 996,
-    "timeWeek": 1390,
-    "timeMonth": 1521,
-    "timeYear": 2095,
+    "uptime": "88.44%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "69.83%",
+    "uptimeMonth": "70.06%",
+    "uptimeYear": "88.44%",
+    "time": 2091,
+    "timeDay": 964,
+    "timeWeek": 1283,
+    "timeMonth": 1484,
+    "timeYear": 2091,
     "dailyMinutesDown": {
       "2025-11-26": 1324,
       "2025-11-25": 1440,
@@ -70,7 +70,8 @@
       "2026-06-23": 82,
       "2026-06-22": 27,
       "2026-06-24": 46,
-      "2026-06-25": 22
+      "2026-06-26": 52,
+      "2026-06-25": 1390
     }
   }
 ]
